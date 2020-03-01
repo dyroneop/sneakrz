@@ -305,7 +305,7 @@ footer form p {
         justify-content: flex-end;
         grid-column: 5/8;
         grid-row: 1;
-        margin: 20px 0px 0 0px;
+        margin: 5px 0px 0 0px;
     }
     .nav-site li {
         color: var(--primary);
